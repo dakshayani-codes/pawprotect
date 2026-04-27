@@ -6,7 +6,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?logo=firebase)](https://firebase.google.com)
 [![SQLite](https://img.shields.io/badge/SQLite-Offline--First-003B57?logo=sqlite)](https://www.sqlite.org)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)](https://android.com)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
