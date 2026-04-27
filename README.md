@@ -9,7 +9,7 @@
 
 ---
 
-## 📱 What Is This?
+## What Is This?
 
 Most screen time apps show you numbers. You look at them. Then you keep scrolling.
 
@@ -17,7 +17,7 @@ PawProtect adds **consequence** — a virtual pet whose emotional state is direc
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---|---|
@@ -32,7 +32,7 @@ PawProtect adds **consequence** — a virtual pet whose emotional state is direc
 
 ---
 
-## 🧠 AI Analytics Engine
+## AI Analytics Engine
 
 The `AiInsightEngine` runs entirely **on-device** — no API calls, no cost, no latency.
 
@@ -53,7 +53,7 @@ Level:  0–19 = Low  |  20–44 = Medium  |  45–69 = High  |  70–100 = Crit
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 Flutter UI Layer
