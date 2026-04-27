@@ -1,0 +1,46 @@
+name: pawprotect
+description: PawProtect - An Offline-First Gamified Digital Wellbeing Analytics System.
+publish_to: 'none'
+version: 2.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  provider: ^6.1.1
+
+  # Local Database
+  sqflite: ^2.3.0
+  path_provider: ^2.1.2
+  path: ^1.9.0
+
+  # Firebase
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.4
+  cloud_firestore: ^5.3.0
+
+  # App Launching + Tracking
+  url_launcher: ^6.2.5
+
+  # Charts
+  fl_chart: ^0.66.2
+
+  # Typography
+  google_fonts: ^6.2.1
+
+  #google sign in
+  google_sign_in: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/memes/
